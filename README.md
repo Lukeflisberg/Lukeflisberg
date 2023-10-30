@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lukeflisberg
-- 👀 I’m interested in gameDev with Unity, Art and Videogames
-- 🌱 I’m currently learning C# and swedish
+- 👀 I’m interested in gamedev with Unity, Videogames and programming the occasional 'odd' software with VSC
+- 🌱 I’m currently learning C#, Python and Delphi
 - 📫 How to reach me: lukeflisberg@gmail.com
 
 <!---
